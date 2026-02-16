@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjeet Singh</h1>
-<h3 align="center">An Elite Engineer architecting the future with Python & Django</h3>
+<h3 align="center">A Passionate Elite Engineer from India, Focused on Innovation, Technology, and Impact</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Open+Source+Contributor;Problem+Solver;Innovation+Engineer" alt="Typing SVG" />
