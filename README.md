@@ -37,6 +37,10 @@
   <a href="https://auth.geeksforgeeks.org/user/ajeetranwicm" target="blank">
     <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
+  <a href="https://x.com/ranjeetsingh_79" target="_blank">
+  <img align="center"src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
 </p>
 
 <br>
