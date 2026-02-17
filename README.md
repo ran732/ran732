@@ -64,43 +64,6 @@
 
 <br>
 
----
 
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ran732&theme=algolia" alt="ran732" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ran732&show_icons=true&locale=en&theme=algolia" alt="ran732" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ran732&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ran732" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ran732&theme=algolia&no-frame=true&row=2&column=4" alt="ran732" />
-</p>
-
-<br>
-
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote" />
-</p>
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Coming Soon: My Journey into AI & ML](#)
-- [Mastering Django: Best Practices for 2024](#)
-- [Why Open Source is the Future of Innovation](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ran732/ran732/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+>
