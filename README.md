@@ -31,7 +31,7 @@
   <a href="https://linkedin.com/in/ranjeet-singh-2030r" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.hackerrank.com/@ajeetranjeet495" target="blank">
+  <a href="https://www.hackerrank.com/ajeetranjeet495" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/ajeetranwicm" target="blank">
